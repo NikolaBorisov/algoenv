@@ -1,0 +1,1 @@
+Web based SVG and Javascript application visualizing graphs and some basic algorithms.
